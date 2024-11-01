@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HighScoresTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-11-01T18:52:50" hostname="DESKTOP-IOCCQL8" time="0.14">
+  <properties/>
+  <testcase name="callingLatestAfterPersonalBest()" classname="HighScoresTest" time="0.074"/>
+  <testcase name="shouldReturnPersonalTopThreeFromListOfScores()" classname="HighScoresTest" time="0.012"/>
+  <testcase name="shouldReturnPersonalBest()" classname="HighScoresTest" time="0.002"/>
+  <testcase name="shouldReturnListOfScores()" classname="HighScoresTest" time="0.003"/>
+  <testcase name="shouldReturnLatestAddedScore()" classname="HighScoresTest" time="0.004"/>
+  <testcase name="callingLatestAfterPersonalTopThree()" classname="HighScoresTest" time="0.001"/>
+  <testcase name="callingScoresAfterPersonalTopThree()" classname="HighScoresTest" time="0.002"/>
+  <testcase name="shouldReturnPersonalTopWhenThereIsOnlyOneScore()" classname="HighScoresTest" time="0.005"/>
+  <testcase name="callingScoresAfterPersonalBest()" classname="HighScoresTest" time="0.002"/>
+  <testcase name="shouldReturnPersonalTopThreeWhenThereIsATie()" classname="HighScoresTest" time="0.001"/>
+  <testcase name="shouldReturnPersonalTopThreeSortedHighestToLowest()" classname="HighScoresTest" time="0.002"/>
+  <testcase name="shouldReturnPersonalTopWhenThereIsLessThanThreeScores()" classname="HighScoresTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
