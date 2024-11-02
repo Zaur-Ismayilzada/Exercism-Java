@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeFactorsCalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-11-02T17:40:33" hostname="DESKTOP-IOCCQL8" time="0.307">
+  <properties/>
+  <testcase name="testProductOfSecondPrime()" classname="PrimeFactorsCalculatorTest" time="0.095"/>
+  <testcase name="testProductOfThirdPrime()" classname="PrimeFactorsCalculatorTest" time="0.02"/>
+  <testcase name="testProductOfPrimes()" classname="PrimeFactorsCalculatorTest" time="0.026"/>
+  <testcase name="testProductOfFirstPrime()" classname="PrimeFactorsCalculatorTest" time="0.02"/>
+  <testcase name="testCubeOfAPrime()" classname="PrimeFactorsCalculatorTest" time="0.022"/>
+  <testcase name="testNoFactors()" classname="PrimeFactorsCalculatorTest" time="0.018"/>
+  <testcase name="testProductOfPrimesAndNonPrimes()" classname="PrimeFactorsCalculatorTest" time="0.016"/>
+  <testcase name="testPrimeNumber()" classname="PrimeFactorsCalculatorTest" time="0.016"/>
+  <testcase name="testSquareOfAPrime()" classname="PrimeFactorsCalculatorTest" time="0.015"/>
+  <testcase name="testProductOfFirstAndSecondPrime()" classname="PrimeFactorsCalculatorTest" time="0.015"/>
+  <testcase name="testAnotherPrimeNumber()" classname="PrimeFactorsCalculatorTest" time="0.017"/>
+  <testcase name="testFactorsIncludingALargePrime()" classname="PrimeFactorsCalculatorTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
