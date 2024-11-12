@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTreeTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-11-12T01:47:49" hostname="DESKTOP-IOCCQL8" time="0.093">
+  <properties/>
+  <testcase name="iteratesOverComplexTree()" classname="BinarySearchTreeTest" time="0.067"/>
+  <testcase name="dataIsRetained()" classname="BinarySearchTreeTest" time="0.003"/>
+  <testcase name="insertsLess()" classname="BinarySearchTreeTest" time="0.002"/>
+  <testcase name="insertsSame()" classname="BinarySearchTreeTest" time="0.006"/>
+  <testcase name="sortsSingleElement()" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="sortsCollectionOfTwoIfSecondInsertedIsSmallerThanFirst()" classname="BinarySearchTreeTest" time="0.002"/>
+  <testcase name="createsComplexTree()" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="insertsRight()" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="sortsCollectionOfTwoIfSecondNumberisSameAsFirst()" classname="BinarySearchTreeTest" time="0.0"/>
+  <testcase name="sortsCollectionOfTwoIfSecondInsertedIsBiggerThanFirst()" classname="BinarySearchTreeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
